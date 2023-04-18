@@ -1,0 +1,19 @@
+body {
+    background: #F3F5FC;
+    display: flex;
+    padding: 40px;
+}
+
+aside {
+    width: 400px;
+    height: 944;
+
+    border: black;
+}
+
+.logo {
+    background-image: url('/decodificador-de-texto-alura-challenge/img/Vector.png');
+
+    width: 31px;
+    height: 48px;
+}
